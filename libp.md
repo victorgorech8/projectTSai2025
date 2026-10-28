@@ -1,0 +1,8 @@
+- catboost
+- darts
+- numpy
+- pandas
+- prophet
+- qiskit
+- scikit-learn
+- torch
